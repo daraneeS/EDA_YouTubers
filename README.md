@@ -2,7 +2,7 @@
 
 ## Overview
 
-* Visualize and analyze choosen YouTubers in Data Science and Solfware engineer fields, Joma, Mayuko,Tina.
+* Visualize and analyze choosen YouTubers in Data Science and Sotfware engineer fields, **Joma, Mayuko,Tina**.
 
 ## Data Source and Preparation
 
