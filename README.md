@@ -17,27 +17,23 @@
 
 ### Channel Info
 ![png](images/channels_info.png)
-___
+
 ### Videos Each Year
 ![png](images/video_each_year.png)
-___
 
 ### Videos Categories
 ![png](images/video_categories.png)
-___
+
 
 ### Views Count
 ![png](images/viewcounts.png)
-___
 
 ### Likes Count
 ![png](images/likecounts.png)
-___
 
 ### Videos Duration
 ![png](images/video_duration.png)
-___
+
 
 ### Views vs Likes
 ![png](images/view_like_scatter.png)
-___
