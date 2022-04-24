@@ -6,7 +6,7 @@
 
 ## Data Source and Preparation
 
-* **YouTube Data V3 API with endpoints** 
+* **YouTube Data V3 API:** 
 * **Channel list**
 * **Playlist list**
 * **Video list**
